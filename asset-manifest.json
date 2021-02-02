@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/KeyflixLogin/static/css/main.ab3e56a8.chunk.css",
+    "main.js": "/KeyflixLogin/static/js/main.33610c9d.chunk.js",
+    "main.js.map": "/KeyflixLogin/static/js/main.33610c9d.chunk.js.map",
+    "runtime-main.js": "/KeyflixLogin/static/js/runtime-main.f8713735.js",
+    "runtime-main.js.map": "/KeyflixLogin/static/js/runtime-main.f8713735.js.map",
+    "static/js/2.e5f02dc7.chunk.js": "/KeyflixLogin/static/js/2.e5f02dc7.chunk.js",
+    "static/js/2.e5f02dc7.chunk.js.map": "/KeyflixLogin/static/js/2.e5f02dc7.chunk.js.map",
+    "static/js/3.10b977e9.chunk.js": "/KeyflixLogin/static/js/3.10b977e9.chunk.js",
+    "static/js/3.10b977e9.chunk.js.map": "/KeyflixLogin/static/js/3.10b977e9.chunk.js.map",
+    "index.html": "/KeyflixLogin/index.html",
+    "static/css/main.ab3e56a8.chunk.css.map": "/KeyflixLogin/static/css/main.ab3e56a8.chunk.css.map",
+    "static/js/2.e5f02dc7.chunk.js.LICENSE.txt": "/KeyflixLogin/static/js/2.e5f02dc7.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/KeyflixLogin/static/media/background-img.bde9bae8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8713735.js",
+    "static/js/2.e5f02dc7.chunk.js",
+    "static/css/main.ab3e56a8.chunk.css",
+    "static/js/main.33610c9d.chunk.js"
+  ]
+}
